@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- learning by doing
+- make simple thing
+- do it together
