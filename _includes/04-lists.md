@@ -1,0 +1,3 @@
+- learning by doing
+- make simple thing
+- do it together
